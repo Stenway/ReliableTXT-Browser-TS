@@ -1,0 +1,33 @@
+{
+  "name": "@stenway/reliabletxt-browser",
+  "version": "0.0.1",
+  "description": "Stefan John / Stenway / ReliableTXT.com / 2022",
+  "homepage": "https://www.reliabletxt.com",
+  "repository": "github:Stenway/ReliableTXT-Browser-TS",
+  "bugs": {
+    "url": "https://github.com/Stenway/ReliableTXT-Browser-TS/issues"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "text file",
+    "encoding",
+    "utf-8",
+    "utf8",
+    "unicode"
+  ],
+  "author": "Stefan John",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@stenway/reliabletxt": "^0.0.2"
+  }
+}
