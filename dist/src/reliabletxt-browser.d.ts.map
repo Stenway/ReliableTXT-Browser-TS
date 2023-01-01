@@ -1,0 +1,1 @@
+{"version":3,"file":"reliabletxt-browser.d.ts","sourceRoot":"","sources":["../../src/reliabletxt-browser.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,mBAAmB,EAAE,MAAM,sBAAsB,CAAA;AAI1D,8BAAsB,mBAAmB;IACxC,MAAM,CAAC,cAAc,CAAC,QAAQ,EAAE,mBAAmB,GAAG,MAAM;IAM5D,MAAM,CAAC,QAAQ,CAAC,YAAY,EAAE,mBAAmB,EAAE,QAAQ,EAAE,MAAM;CAUnE"}
